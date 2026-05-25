@@ -1,75 +1,113 @@
-# Hi 👋, I'm Vishwajeet Ladkat
-### DevOps Enthusiast | AWS & Linux Learner | B.Sc Computer Science Graduate
+```md
+<div align="center">
+
+# 💫 Hey There, I'm Vishwajeet Ladkat 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=vishwajeetladkat&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 B.Sc Computer Science Graduate (2022–2025)  
+☁️ Passionate about Cloud Computing & DevOps  
+🐳 Working with Docker, Kubernetes & Jenkins  
+⚡ Learning CI/CD, Terraform & AWS Automation  
+🐧 Linux Administration Enthusiast  
+📍 Pune, Maharashtra, India  
+
+📫 **Email:**  
+`ladkatvishwajeet766@gmail.com`
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishwajeetladkat&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeetladkat" />
+<a href="https://github.com/vishwajeetladkat" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="50" /></a>
+<a href="https://linkedin.com/in/vishwajeetladkat" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" /></a>
+<a href="mailto:ladkatvishwajeet766@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+# ⚒️ Tech Stack
 
-- 🎓 B.Sc Computer Science Graduate (2022–2025)
-- ☁️ Learning and working with AWS Cloud & DevOps Tools
-- 🐳 Skilled in Docker, Kubernetes, Jenkins & Terraform
-- 🐧 Linux Administration Enthusiast
-- 📍 Based in Pune, Maharashtra, India
-- 📫 Reach me at: **ladkatvishwajeet766@gmail.com**
+<div align="center">
 
----
+## ☁️ Cloud & DevOps
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform" />
 
-### Cloud & DevOps
+## 💻 Programming
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,mysql" />
 
-### Programming & Database
+## 🐧 Tools & OS
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 
-### Operating System & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 📂 Projects
+# 📂 Featured Projects
 
-### 🍔 Online Food Delivery Application
-- Developed using Java, C++, HTML & CSS
-- Implemented user-friendly interfaces and application functionality
-
-### ☁️ Student Registry Application Deployment on AWS
-- Deployed application on AWS EC2
-- Used Jenkins for CI/CD automation
-- Worked with Terraform for Infrastructure as Code (IaC)
-- Managed cloud hosting and deployment setup
+## 🍔 Online Food Delivery Application
+🔹 Developed using **Java, C++, HTML & CSS**  
+🔹 Created user-friendly interfaces and application features  
+🔹 Improved application functionality and UI experience  
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwajeetladkat&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetladkat&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/vishwajeetladkat
-- LinkedIn: https://linkedin.com/in/vishwajeetladkat
-- Email: ladkatvishwajeet766@gmail.com
+## ☁️ Student Registry Application Deployment on AWS
+🔹 Deployed application on **AWS EC2**  
+🔹 Automated deployment using **Jenkins CI/CD**  
+🔹 Used **Terraform** for Infrastructure as Code (IaC)  
+🔹 Managed Linux server setup and application hosting  
 
 ---
 
-⭐ Always learning DevOps, Cloud Computing, and Automation Technologies.
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishwajeetladkat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetladkat&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetladkat&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 DevOps Goals
+
+✅ Master AWS Cloud  
+✅ Build Real-World CI/CD Pipelines  
+✅ Learn Kubernetes Advanced Concepts  
+✅ Become a Professional DevOps Engineer  
+
+---
+
+# ⚡ Fun Fact
+
+💡 *“Automation is not about replacing humans, it's about empowering them.”*
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for visiting my profile!
+
+⭐ Don't forget to star repositories you like ⭐
+
+</div>
+```
