@@ -1,42 +1,47 @@
-<h1 align="center">
-  𝙑𝙞𝙨𝙝𝙬𝙖𝙟𝙚𝙚𝙩 𝙇𝙖𝙙𝙠𝙖𝙩
-</h1>
-
-<h3 align="center">
-   ☁️ DevOps Engineer Enthusiast | AWS • Docker • Kubernetes ☁️
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+Computing+Learner;DevOps+Automation+Engineer;AWS+%7C+Terraform+%7C+Linux;Always+Building+and+Learning" />
-</p>
-
----
-
 <div align="center">
 
-## ⚡ SYSTEM STATUS
+# 💫 𝙑𝙞𝙨𝙝𝙬𝙖𝙟𝙚𝙚𝙩 𝙇𝙖𝙙𝙠𝙖𝙩 💫
 
-```diff
-+ Name        : Vishwajeet Ladkat
-+ Role        : DevOps Engineer Enthusiast
-+ Education   : B.Sc Computer Science
-+ Location    : Pune, Maharashtra
-+ Focus       : Cloud • Automation • CI/CD
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Cloud+%26+Automation+Learner" />
+
+<br>
+
+<img src="https://img.shields.io/badge/🚀_Status-10Vishwajeet-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/github/followers/vishwajeetladkat?style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/stars/vishwajeetladkat?style=for-the-badge&color=yellow" />
 
 </div>
 
 ---
 
-# 🧠 ABOUT_ME.sh
+<img align="right" alt="coding" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+# 🧠 About Me
+
+```yaml
+Name: Vishwajeet Ladkat
+Role: DevOps Engineer Enthusiast
+Education: B.Sc Computer Science
+Location: Pune, Maharashtra
+Focus:
+  - AWS Cloud
+  - Docker
+  - Kubernetes
+  - Terraform
+  - Jenkins
+  - Linux
+```
+
+---
+
+# 🚀 DevOps Journey
 
 ```bash
 #!/bin/bash
 
-echo "Hello World 👋"
-
-name="Vishwajeet Ladkat"
-role="DevOps Engineer Enthusiast"
+echo "Welcome To My GitHub Profile 🚀"
 
 skills=(
 "AWS"
@@ -47,124 +52,129 @@ skills=(
 "Linux"
 )
 
-while true
-do
-   learn_new_technology
+while(true); do
+    learn_new_technology();
 done
 ```
 
 ---
 
-# 🛠️ TECH STACK
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,bash,vscode,java,cpp,mysql" />
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins" />
+
+---
+
+### 💻 Programming & Database
+
+<img src="https://skillicons.dev/icons?i=java,cpp,mysql,html,css" />
+
+---
+
+### 🛠️ Tools & OS
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode" />
 
 </div>
 
 ---
 
-# 🚀 CURRENTLY LEARNING
-
-```yaml
-DevOps:
-  - CI/CD Pipelines
-  - Infrastructure as Code
-  - Kubernetes Advanced Concepts
-
-Cloud:
-  - AWS EC2
-  - IAM
-  - VPC
-  - Monitoring
-
-Automation:
-  - Terraform
-  - Jenkins Pipelines
-  - Shell Scripting
-```
-
----
-
-# 📂 FEATURED PROJECTS
+# 📂 Featured Projects
 
 ## ☁️ AWS Student Registry Deployment
 
-```txt
-✔ Deployed application on AWS EC2
-✔ Automated deployment using Jenkins
-✔ Used Terraform for IaC
-✔ Configured Linux servers
+```diff
++ Deployed application on AWS EC2
++ Automated deployment using Jenkins
++ Used Terraform for Infrastructure as Code
++ Configured Linux servers
++ Worked on CI/CD automation
 ```
 
 ---
 
 ## 🍔 Online Food Delivery Application
 
-```txt
-✔ Developed using Java, HTML & CSS
-✔ Built user-friendly interfaces
-✔ Implemented core application logic
+```diff
++ Developed using Java, HTML & CSS
++ Created responsive user interface
++ Implemented application functionality
++ Improved user experience
 ```
 
 ---
 
-# 📊 GITHUB STATS
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwajeetladkat&show_icons=true&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwajeetladkat&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetladkat&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetladkat&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetladkat&layout=compact&theme=radical&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetladkat&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 ACHIEVEMENTS_UNLOCKED
+# 🏆 Achievements
 
 ```diff
-+ Learned AWS Basics
-+ Built CI/CD Pipelines
-+ Worked with Docker & Kubernetes
-+ Deployed Applications on Cloud
-+ Started DevOps Journey 🚀
++ AWS Cloud Learner
++ Docker & Kubernetes Practitioner
++ Terraform Automation Projects
++ CI/CD Pipeline Knowledge
++ Linux Administration Skills
 ```
 
 ---
 
-# 🌐 CONNECT
+# 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vishwajeetladkat)
+<a href="https://github.com/vishwajeetladkat">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishwajeetladkat)
+<a href="https://linkedin.com/in/vishwajeetladkat">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:ladkatvishwajeet766@gmail.com)
+<a href="mailto:ladkatvishwajeet766@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+# ⚡ Current Goals
 
-```ascii
-██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗      ██╗███████╗███████╗████████╗
-██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗     ██║██╔════╝██╔════╝╚══██╔══╝
-██║   ██║██║███████╗███████║██║ █╗ ██║███████║     ██║█████╗  █████╗     ██║
-╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║██   ██║██╔══╝  ██╔══╝     ██║
- ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║╚█████╔╝███████╗███████╗   ██║
-  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝   ╚═╝
+```yaml
+2026 Goals:
+  - Master AWS Cloud
+  - Build Production CI/CD Pipelines
+  - Learn Advanced Kubernetes
+  - Contribute to Open Source
+  - Become Professional DevOps Engineer
 ```
 
-⭐ 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦 ⭐
+---
+
+<div align="center">
+
+## 🚀 Thanks For Visiting My Profile 🚀
+
+⭐ Star repositories if you like them ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
 
 </div>
