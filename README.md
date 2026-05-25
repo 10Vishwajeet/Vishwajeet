@@ -1,180 +1,97 @@
-<div align="center">
+# 🔥 FINAL PREMIUM UPGRADES
 
-# 💫 𝙑𝙞𝙨𝙝𝙬𝙖𝙟𝙚𝙚𝙩 𝙇𝙖𝙙𝙠𝙖𝙩 💫
+## ✅ Add GitHub Trophy Section
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer+Enthusiast;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+Linux;Cloud+%26+Automation+Learner" />
+Place this below **GitHub Analytics**:
 
-<br>
-
-<img src="https://img.shields.io/badge/🚀_Status-10Vishwajeet-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/github/followers/vishwajeetladkat?style=for-the-badge&color=blue" />
-
-<img src="https://img.shields.io/github/stars/vishwajeetladkat?style=for-the-badge&color=yellow" />
-
-</div>
-
----
-
-<img align="right" alt="coding" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-# 🧠 About Me
-
-```yaml
-Name: Vishwajeet Ladkat
-Role: DevOps Engineer Enthusiast
-Education: B.Sc Computer Science
-Location: Pune, Maharashtra
-Focus:
-  - AWS Cloud
-  - Docker
-  - Kubernetes
-  - Terraform
-  - Jenkins
-  - Linux
-```
-
----
-
-# 🚀 DevOps Journey
-
-```bash
-#!/bin/bash
-
-echo "Welcome To My GitHub Profile 🚀"
-
-skills=(
-"AWS"
-"Docker"
-"Kubernetes"
-"Terraform"
-"Jenkins"
-"Linux"
-)
-
-while(true); do
-    learn_new_technology();
-done
-```
-
----
-
-# ⚒️ Tech Stack
+```md
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins" />
-
----
-
-### 💻 Programming & Database
-
-<img src="https://skillicons.dev/icons?i=java,cpp,mysql,html,css" />
-
----
-
-### 🛠️ Tools & OS
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,bash,vscode" />
+<img src="https://github-profile-trophy.vercel.app/?username=vishwajeetladkat&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
-
----
-
-# 📂 Featured Projects
-
-## ☁️ AWS Student Registry Deployment
-
-```diff
-+ Deployed application on AWS EC2
-+ Automated deployment using Jenkins
-+ Used Terraform for Infrastructure as Code
-+ Configured Linux servers
-+ Worked on CI/CD automation
 ```
 
 ---
 
-## 🍔 Online Food Delivery Application
+## ✅ Add Contribution Graph
 
-```diff
-+ Developed using Java, HTML & CSS
-+ Created responsive user interface
-+ Implemented application functionality
-+ Improved user experience
+```md
+# 📈 Contribution Graph
+
+[![Vishwajeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetladkat&theme=tokyo-night)](https://github.com/vishwajeetladkat)
 ```
 
 ---
 
-# 📊 GitHub Analytics
+## ✅ Add Snake Animation
+
+Place near the bottom:
+
+```md
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwajeetladkat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetladkat&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetladkat&layout=compact&theme=tokyonight&hide_border=true"/>
+![snake gif](https://github.com/vishwajeetladkat/vishwajeetladkat/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-# 🏆 Achievements
-
-```diff
-+ AWS Cloud Learner
-+ Docker & Kubernetes Practitioner
-+ Terraform Automation Projects
-+ CI/CD Pipeline Knowledge
-+ Linux Administration Skills
 ```
 
 ---
 
-# 🌐 Connect With Me
+## ✅ Better Status Badge
 
-<div align="center">
+Replace this:
 
-<a href="https://github.com/vishwajeetladkat">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
+```md
+🚀 Status-10Vishwajeet
+```
 
-<a href="https://linkedin.com/in/vishwajeetladkat">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
+With this:
 
-<a href="mailto:ladkatvishwajeet766@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-</div>
-
----
-
-# ⚡ Current Goals
-
-```yaml
-2026 Goals:
-  - Master AWS Cloud
-  - Build Production CI/CD Pipelines
-  - Learn Advanced Kubernetes
-  - Contribute to Open Source
-  - Become Professional DevOps Engineer
+```md
+<img src="https://img.shields.io/badge/STATUS-DevOps%20Learner-00C2FF?style=for-the-badge&logo=linux&logoColor=white"/>
 ```
 
 ---
 
+## ✅ Add Random Dev Quote
+
+```md
+# 💡 Dev Quote
+
 <div align="center">
 
-## 🚀 Thanks For Visiting My Profile 🚀
-
-⭐ Star repositories if you like them ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
+```
+
+---
+
+## ✅ Add Profile Views Counter
+
+At the top under typing SVG:
+
+```md
+<img src="https://komarev.com/ghpvc/?username=vishwajeetladkat&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+```
+
+---
+
+## ✅ Final Footer Upgrade
+
+Replace current footer section with:
+
+```md
+<div align="center">
+
+## 🚀 Building • Learning • Automating • Scaling 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=140&section=footer"/>
+
+</div>
+```
