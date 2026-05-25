@@ -1,75 +1,170 @@
-# Hi 👋, I'm Vishwajeet Ladkat
-### DevOps Enthusiast | AWS & Linux Learner | B.Sc Computer Science Graduate
+<h1 align="center">
+  𝙑𝙞𝙨𝙝𝙬𝙖𝙟𝙚𝙚𝙩 𝙇𝙖𝙙𝙠𝙖𝙩
+</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishwajeetladkat&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeetladkat" />
+<h3 align="center">
+   ☁️ DevOps Engineer Enthusiast | AWS • Docker • Kubernetes ☁️
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=600&lines=Cloud+Computing+Learner;DevOps+Automation+Engineer;AWS+%7C+Terraform+%7C+Linux;Always+Building+and+Learning" />
 </p>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 B.Sc Computer Science Graduate (2022–2025)
-- ☁️ Learning and working with AWS Cloud & DevOps Tools
-- 🐳 Skilled in Docker, Kubernetes, Jenkins & Terraform
-- 🐧 Linux Administration Enthusiast
-- 📍 Based in Pune, Maharashtra, India
-- 📫 Reach me at: **ladkatvishwajeet766@gmail.com**
+## ⚡ SYSTEM STATUS
 
----
+```diff
++ Name        : Vishwajeet Ladkat
++ Role        : DevOps Engineer Enthusiast
++ Education   : B.Sc Computer Science
++ Location    : Pune, Maharashtra
++ Focus       : Cloud • Automation • CI/CD
+```
 
-## 🛠️ Tech Stack
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Programming & Database
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Operating System & Tools
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 📂 Projects
+# 🧠 ABOUT_ME.sh
 
-### 🍔 Online Food Delivery Application
-- Developed using Java, C++, HTML & CSS
-- Implemented user-friendly interfaces and application functionality
+```bash
+#!/bin/bash
 
-### ☁️ Student Registry Application Deployment on AWS
-- Deployed application on AWS EC2
-- Used Jenkins for CI/CD automation
-- Worked with Terraform for Infrastructure as Code (IaC)
-- Managed cloud hosting and deployment setup
+echo "Hello World 👋"
 
----
+name="Vishwajeet Ladkat"
+role="DevOps Engineer Enthusiast"
 
-## 📊 GitHub Stats
+skills=(
+"AWS"
+"Docker"
+"Kubernetes"
+"Terraform"
+"Jenkins"
+"Linux"
+)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwajeetladkat&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetladkat&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/vishwajeetladkat
-- LinkedIn: https://linkedin.com/in/vishwajeetladkat
-- Email: ladkatvishwajeet766@gmail.com
+while true
+do
+   learn_new_technology
+done
+```
 
 ---
 
-⭐ Always learning DevOps, Cloud Computing, and Automation Technologies.
+# 🛠️ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,bash,vscode,java,cpp,mysql" />
+
+</div>
+
+---
+
+# 🚀 CURRENTLY LEARNING
+
+```yaml
+DevOps:
+  - CI/CD Pipelines
+  - Infrastructure as Code
+  - Kubernetes Advanced Concepts
+
+Cloud:
+  - AWS EC2
+  - IAM
+  - VPC
+  - Monitoring
+
+Automation:
+  - Terraform
+  - Jenkins Pipelines
+  - Shell Scripting
+```
+
+---
+
+# 📂 FEATURED PROJECTS
+
+## ☁️ AWS Student Registry Deployment
+
+```txt
+✔ Deployed application on AWS EC2
+✔ Automated deployment using Jenkins
+✔ Used Terraform for IaC
+✔ Configured Linux servers
+```
+
+---
+
+## 🍔 Online Food Delivery Application
+
+```txt
+✔ Developed using Java, HTML & CSS
+✔ Built user-friendly interfaces
+✔ Implemented core application logic
+```
+
+---
+
+# 📊 GITHUB STATS
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishwajeetladkat&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeetladkat&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetladkat&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 ACHIEVEMENTS_UNLOCKED
+
+```diff
++ Learned AWS Basics
++ Built CI/CD Pipelines
++ Worked with Docker & Kubernetes
++ Deployed Applications on Cloud
++ Started DevOps Journey 🚀
+```
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/vishwajeetladkat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishwajeetladkat)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:ladkatvishwajeet766@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
+██╗   ██╗██╗███████╗██╗  ██╗██╗    ██╗ █████╗      ██╗███████╗███████╗████████╗
+██║   ██║██║██╔════╝██║  ██║██║    ██║██╔══██╗     ██║██╔════╝██╔════╝╚══██╔══╝
+██║   ██║██║███████╗███████║██║ █╗ ██║███████║     ██║█████╗  █████╗     ██║
+╚██╗ ██╔╝██║╚════██║██╔══██║██║███╗██║██╔══██║██   ██║██╔══╝  ██╔══╝     ██║
+ ╚████╔╝ ██║███████║██║  ██║╚███╔███╔╝██║  ██║╚█████╔╝███████╗███████╗   ██║
+  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚════╝ ╚══════╝╚══════╝   ╚═╝
+```
+
+⭐ 𝘛𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘷𝘪𝘴𝘪𝘵𝘪𝘯𝘨 𝘮𝘺 𝘱𝘳𝘰𝘧𝘪𝘭𝘦 ⭐
+
+</div>
